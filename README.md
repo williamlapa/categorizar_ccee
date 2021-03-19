@@ -1,7 +1,6 @@
 # Classificação Tarifação Elétrica
 
 ![](Classifica5.png)
-![](Classifica6.png)
 
 Trata-se de projeto final desenvolvido para  módulo de Machine Learning no curso do Bootcamp/ENAP em março 2021.
 
