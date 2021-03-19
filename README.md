@@ -1,4 +1,4 @@
-# categorizar_ccee
+# Classificação Tarifação Elétrica
 Trata-se de projeto final desenvolvido para  módulo de Machine Learning no curso do Bootcamp/ENAP em março 2021.
 
 Descrição do projeto:
