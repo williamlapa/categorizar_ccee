@@ -7,7 +7,7 @@ Trata-se de projeto final desenvolvido para  módulo de Machine Learning no curs
 ## Descrição do projeto:
 Automatização da classificação de textos enviados em forma de planilha da Câmara de Comercialização de Energia Elétrica (CCEE) para a Agência Nacional de Energia Elétrica (ANEEL).
 
-## Release History
+## Autores
 * Alexandre Kenji - ANEEL
 * Bruna Guedes - Ministério da Economia 
 * Carlos Dhreonny - TJDF  
