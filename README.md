@@ -13,7 +13,9 @@ Automatização da classificação de textos enviados em forma de planilha da C�
 * Carlos Dhreonny - TJDF  
 * William Lapa - Receita Federal do Brasil
 
-## Fonte de dados:
+## Fonte de dados
 Os dados são públicos e estão disponíveis no portal da CCEE (https://www.ccee.org.br/)
 
+## Notebook
+ClassificadorCCEE.ypnb
 
