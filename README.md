@@ -17,6 +17,6 @@ Automatização da classificação de textos enviados em forma de planilha da C�
 Os dados são públicos e estão disponíveis no portal da CCEE (https://www.ccee.org.br/)
 
 ## Notebook
-ClassificadorCCEE.ypnb
-[https://github.com/williamlapa/categorizar_ccee/blob/master/ClassificadorCCEE.ipynb (ClassificadorCCEE.ypnb)
+ClassificadorCCEE.ipynb
+[https://github.com/williamlapa/categorizar_ccee/blob/master/ClassificadorCCEE.ipynb
 
