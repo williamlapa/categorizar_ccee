@@ -1,6 +1,6 @@
 # Classificação Tarifação Elétrica
 
-![](Classifica5.png)
+![](figura.png)
 
 Trata-se de projeto final desenvolvido para  módulo de Machine Learning no curso do Bootcamp/ENAP em março 2021.
 
@@ -18,4 +18,5 @@ Os dados são públicos e estão disponíveis no portal da CCEE (https://www.cce
 
 ## Notebook
 ClassificadorCCEE.ypnb
+[https://github.com/williamlapa/categorizar_ccee/blob/master/ClassificadorCCEE.ipynb (ClassificadorCCEE.ypnb)
 
